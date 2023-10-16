@@ -13,6 +13,8 @@ Analogously `<Prefix> + C-a` will change your **Prefix** to C-a changing the bac
 
 ## Video demo
 
+[![asciicast](https://asciinema.org/a/614770.svg)](https://asciinema.org/a/614770)
+
 ## Customization
 
 These are the default settings, change any of the parameters accordingly to change the behaviour.
